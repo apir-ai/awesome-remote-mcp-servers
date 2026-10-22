@@ -3325,6 +3325,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AgenticRail](https://agenticrail.nz/docs/) `https://mcp.agenticrail.nz/`
   [![AgenticRail MCP connector](https://glama.ai/mcp/connectors/nz.agenticrail/gate/badges/score.svg)](https://glama.ai/mcp/connectors/nz.agenticrail/gate)
   🔓 - Gate for AI agent steps: ALLOW or DENY before a step runs, sealed into signed receipts that verify offline.
+- [APIR Agent Verification](https://apir.ai/developers) `https://apir.ai/api/mcp`
+  [![APIR Agent Verification MCP connector](https://glama.ai/mcp/connectors/ai.apir/verify/badges/score.svg)](https://glama.ai/mcp/connectors/ai.apir/verify)
+  🔓 - Verify an AI agent's signed credential and the human mandate behind it; keys are public for offline checks.
 - [arifOS](https://mcp.arif-fazil.com) `https://mcp.arif-fazil.com/mcp`
   [![arifOS MCP connector](https://glama.ai/mcp/connectors/io.github.ariffazil/arifos/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ariffazil/arifos)
   🔓 - Fail-closed governance and separation of powers for MCP-enabled AI agents.
